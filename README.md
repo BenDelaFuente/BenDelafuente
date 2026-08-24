@@ -60,13 +60,14 @@ Before this role, I worked on sustainability data analysis (waste/organics track
 
 Hoping to find a role next that relies on my strengths and passions, where I can grow and help the company understand the strength data has to offer.
 
----
+<!--
+#---
  
-## 📌 Featured Projects
+#📌 Featured Projects
 
-*creating projects now*
+#*creating projects now*
 
-| Project | Description |
+%| Project | Description |
 |---|---|
 | 🔧 **[Project Name]** | short one-line description |
 | 📊 **[Project Name]** | short one-line description |
@@ -74,4 +75,5 @@ Hoping to find a role next that relies on my strengths and passions, where I can
  
 ---
  
-📫 Feel free to check out my pinned repos below for detailed write-ups of each project.
+#📫 Feel free to check out my pinned repos below for detailed write-ups of each project.
+-->
