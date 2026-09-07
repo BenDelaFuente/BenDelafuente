@@ -1,6 +1,6 @@
 # Hello, I'm Ben Delafuente 
  
-I'm a Business Intelligence / Data Engineering intern at PING (Golf Company) working in the Microsoft Fabric ecosystem — Lakehouses, Power BI semantic models, SQL analytics endpoints, and data pipelines. I split my time between building reports and dashboards and working on the infrastructure/CI-CD side that keeps analytics environments reliable. I'm wrapping up this role in August and currently building out my portfolio.
+I'm a Business Intelligence / Data Engineering intern at PING (Golf Company) where I worked in the Microsoft Fabric ecosystem — Lakehouses, Power BI semantic models, SQL analytics endpoints, and data pipelines. I split my time between building reports and dashboards and working on the infrastructure/CI-CD side that keeps analytics environments reliable. I've wrapped 
  
 ---
  
@@ -54,11 +54,11 @@ CI/CD for Fabric using `fabric-cicd` + Azure DevOps
  
 ---
  
-## 🎒 Background
+## My Background
  
 Before this role, I worked on sustainability data analysis (waste/organics tracking), assisted with ML research in an academic setting (project-focused role), and did data analysis work in materials recovery (prediction of daily/weekly waste, route efficiency, data management) — all of which fed into why I care about applying data work to sustainability and resource-focused problems specifically.
 
-Hoping to find a role next that relies on my strengths and passions, where I can grow and help the company understand the strength data has to offer.
+Hoping to find a role next that relies on my strengths and passions, where I can grow and help the company understand the strength data has to offer. I hope you enjoy my portfolio and what projects I have chosen to present.
 
 <!--
 #---
