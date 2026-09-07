@@ -1,10 +1,10 @@
-# Hey, I'm Ben Delafuente 👋
+# Hello, I'm Ben Delafuente 
  
 I'm a Business Intelligence / Data Engineering intern at PING (Golf Company) working in the Microsoft Fabric ecosystem — Lakehouses, Power BI semantic models, SQL analytics endpoints, and data pipelines. I split my time between building reports and dashboards and working on the infrastructure/CI-CD side that keeps analytics environments reliable. I'm wrapping up this role in August and currently building out my portfolio.
  
 ---
  
-## 🏔️ My Hobbies
+## My Hobbies include:
  
 Snowboarding · Camping · Hiking · Bouldering · Guitar/Piano · Pickleball · Exercising
  
@@ -21,7 +21,7 @@ That said, I intentionally take on projects outside that lane too, because I wan
 ## 🛠️ What I Have Experience With
  
 **Education**
-`B.S. in Data Science`
+`B.S. in Data Science - with a concentration in Social Science`
  
 **Reporting / Modeling**
  
